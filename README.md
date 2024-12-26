@@ -11,15 +11,16 @@ I'm Kevin, Full Stack developer always trying to improve and learn new things
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 🌟 Featured Projects
 <!--
+## 🌟 Featured Projects
+
 <div align="center">
   <a href="https://github.com/Kevinrestrepoh/YOUR_REPO_NAME">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight" />
   </a>
 </div>
 -->
-## 🤝 Connect with me
+##
 
 <div align="center">
   <a href="https://linkedin.com/in/kevin-restrepo-hernandez-a31078268/" target="_blank">
