@@ -25,7 +25,7 @@ I'm Kevin, a Full Stack developer with a passion for learning and building great
 - 🔍 Learning best practices and design patterns
 - 📊 Exploring full-stack development
 
-##
+###
 
 <div align="center">
   <a href="https://linkedin.com/in/kevin-restrepo-hernandez-a31078268/">
