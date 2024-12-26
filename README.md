@@ -11,13 +11,6 @@ I'm Kevin, Full Stack developer always trying to improve and learn new things
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevinrestrepoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrestrepoh&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -29,19 +22,10 @@ I'm Kevin, Full Stack developer always trying to improve and learn new things
 ## 🤝 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/kevin-restrepo-hernandez-a31078268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <!--<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Portfolio">
-  </a>
+  </a>-->
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kevinrestrepoh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<!-- Activity graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=Kevinrestrepoh&theme=github" />
