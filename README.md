@@ -14,14 +14,14 @@ I'm Kevin, Full Stack developer always trying to improve and learn new things
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevinrestrepoh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrestrepoh&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
+  <a href="https://github.com/Kevinrestrepoh/YOUR_REPO_NAME">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight" />
   </a>
 </div>
@@ -40,8 +40,8 @@ I'm Kevin, Full Stack developer always trying to improve and learn new things
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Kevinrestrepoh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <!-- Activity graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=github" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Kevinrestrepoh&theme=github" />
