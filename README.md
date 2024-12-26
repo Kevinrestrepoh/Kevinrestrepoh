@@ -12,13 +12,13 @@ I'm Kevin, Full Stack developer always trying to improve and learn new things
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ## 🌟 Featured Projects
-
+<!--
 <div align="center">
   <a href="https://github.com/Kevinrestrepoh/YOUR_REPO_NAME">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight" />
   </a>
 </div>
-
+-->
 ## 🤝 Connect with me
 
 <div align="center">
