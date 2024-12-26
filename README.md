@@ -1,32 +1,43 @@
-# 👋 Hey! Nice to see you.
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey! Nice to see you.
 
-Welcome to my page!
-I'm Kevin, Full Stack developer always trying to improve and learn new things
+I'm Kevin, a Full Stack developer with a passion for learning and building great things. Currently on an exciting journey of continuous improvement in web development! 
 
-## 🚀 Things I code with
+## 🎯 Current Focus
 
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- 🌱 Deepening my knowledge of **React** and **Next.js**
+- 📚 Mastering **TypeScript** for better code quality
+- 🛠️ Building small projects to practice my skills
 
-<!--
-## 🌟 Featured Projects
+## 💻 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/Kevinrestrepoh/YOUR_REPO_NAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</div>
+
+## 🌟 What I'm Working On
+
+- 📱 Building responsive web applications
+- 🎨 Improving my UI/UX design skills
+- 🔍 Learning best practices and design patterns
+- 📊 Exploring full-stack development
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/kevin-restrepo-hernandez-a31078268/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kevinrestrepoh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
--->
-##
 
-<div align="left">
-  <a href="https://linkedin.com/in/kevin-restrepo-hernandez-a31078268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <!--<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Portfolio">
-  </a>-->
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </div>
