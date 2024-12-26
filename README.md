@@ -15,32 +15,32 @@
 
 I'm Kevin, Full Stack developer always trying to improve and learn new things
 
-```typescript
-const kevin = {
-  code: ['TypeScript', 'JavaScript', 'HTML', 'CSS'],
-  technologies: {
-    frontend: {
-      js: ['React', 'Next.js'],
-      css: ['Tailwind', 'Styled-Components'],
-    },
-    tools: ['Git', 'GitHub', 'VS Code'],
-  },
-  currentlyLearning: 'Always exploring new technologies',
-  challenge: 'Building something meaningful every day',
-};
-```
-
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 <div align="center">
-  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#react">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#nextjs">
+          <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" alt="icon" width="65" height="65" />
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <a href="#typescript">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>TypeScript
+      </td>
+    </tr>
+  </table>
 </div>
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak Stats" />
@@ -62,12 +62,20 @@ const kevin = {
 
 <div align="center">
   <i>Let's connect and build something amazing together!</i>
-  
-  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+  <br><br>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
-<!-- Profile views counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
