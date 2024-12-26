@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey! Nice to see you.
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Hey! Nice to see you.
 
 I'm Kevin, a Full Stack developer with a passion for learning and building great things. Currently on an exciting journey of continuous improvement in web development! 
 
@@ -25,7 +25,7 @@ I'm Kevin, a Full Stack developer with a passion for learning and building great
 - 🔍 Learning best practices and design patterns
 - 📊 Exploring full-stack development
 
-###
+##
 
 <div align="center">
   <a href="https://linkedin.com/in/kevin-restrepo-hernandez-a31078268/">
