@@ -5,11 +5,24 @@ I'm Kevin, Full Stack developer always trying to improve and learn new things
 
 ## 🚀 Things I code with
 
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<div align="center">
+
+<div style="display: inline-block; background: #2b2b2b; margin: 0 10px 10px 0; padding: 10px 20px; border-radius: 10px; border: 2px solid #61dafb;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" style="vertical-align: middle;"/>
+  <span style="color: white; margin-left: 10px; font-size: 18px;">React</span>
+</div>
+
+<div style="display: inline-block; background: #2b2b2b; margin: 0 10px 10px 0; padding: 10px 20px; border-radius: 10px; border: 2px solid #ffffff;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" height="30" style="vertical-align: middle;"/>
+  <span style="color: white; margin-left: 10px; font-size: 18px;">Next.js</span>
+</div>
+
+<div style="display: inline-block; background: #2b2b2b; margin: 0 10px 10px 0; padding: 10px 20px; border-radius: 10px; border: 2px solid #3178c6;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30" style="vertical-align: middle;"/>
+  <span style="color: white; margin-left: 10px; font-size: 18px;">TypeScript</span>
+</div>
+
+</div>
 
 ## 📊 My GitHub Stats
 
