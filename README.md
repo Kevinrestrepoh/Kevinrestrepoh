@@ -24,7 +24,7 @@ I'm Kevin, Full Stack developer always trying to improve and learn new things
 
 <div align="left">
   <a href="https://linkedin.com/in/kevin-restrepo-hernandez-a31078268/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <!--<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Portfolio">
