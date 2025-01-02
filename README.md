@@ -4,23 +4,21 @@ I'm Kevin, a Full Stack developer with a passion for learning and building great
 
 ## 🎯 Current Focus
 
-- 🌱 Deepening my knowledge of **React** and **Next.js**
-- 📚 Mastering **TypeScript** for better code quality
+- 🌱 Deepening my knowledge of **Mobile Development** and **Backend**
 - 🛠️ Building small projects to practice my skills
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </div>
 
 ## 🌟 What I'm Working On
 
-- 📱 Building responsive web applications
+- 📱 Building modern mobile applications
 - 🎨 Improving my UI/UX design skills
 - 🔍 Learning best practices and design patterns
 - 📊 Exploring full-stack development
