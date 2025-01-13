@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Hey! Nice to see you.
 
-I'm Kevin, a Backend and Mobile developer with a passion for learning and building great things. Currently on an exciting journey of continuous improvement in web development! 
+I'm Kevin, a Backend and Mobile developer with a passion for learning and building great things. Currently on an exciting journey of continuous improvement! 
 
 ## 🎯 Current Focus
 
