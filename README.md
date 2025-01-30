@@ -1,24 +1,22 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Hey! Nice to see you.
 
-I'm Kevin, a Backend and Mobile developer with a passion for learning and building great things. Currently on an exciting journey of continuous improvement! 
+I'm Kevin, a Backend developer with a passion for learning and building great things. Currently on an exciting journey of continuous improvement! 
 
 ## 🎯 Current Focus
 
-- 🌱 Deepening my knowledge of **Mobile Development** and **Backend**
+- 🌱 Deepening my knowledge of **Backend Development**
 - 🛠️ Building small projects to practice my skills
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
 ## 🌟 What I'm Working On
 
-- 📱 Building modern mobile applications
-- 🎨 Improving my UI/UX design skills
+- 🛠️ Developing backend systems
 - 🔍 Learning best practices and design patterns
 
 ##
